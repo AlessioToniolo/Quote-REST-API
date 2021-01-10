@@ -8,7 +8,8 @@ the datastore of quotes.
 
 ## Getting Started
 To use this API, you can simply clone the repository, `npm install` to install all project
-dependencies, and then start up a local server with `npm start`.
+dependencies,
+and then start up a local server with `npm start`.
 
 ## About
 The project is fully backend, written in JavaScript. It uses Node.js to be backend, and
